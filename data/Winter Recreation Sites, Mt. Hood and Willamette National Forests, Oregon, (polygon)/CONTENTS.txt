@@ -1,0 +1,84 @@
+
+# Winter Recreation Sites, Mt. Hood and Willamette National Forests, Oregon, (polygon)
+
+
+## URL
+https://databasin.org/datasets/aedb344b933f4ce3933d5ffa6ead53b2
+
+
+## Dataset Type
+ArcGIS
+
+
+## Credits
+USDA Forest Service
+
+
+## Uploaded By
+[Conservation Biology Institute](https://databasin.org/people/consbio)
+
+
+## Description
+This dataset contains polygon boundaries of developed winter recreation areas operating on the Mt. Hood and Willamette National Forests. This data contains basic attributes to describe the recreation area name and unit location. This dataset was derived by copying the developed recreation boundaries stored within each Forests&#39; corporate recreation GIS dataset.
+
+
+## Use Constraints
+This work is licensed under a  Creative Commons Attribution 3.0 License .
+
+
+### Original Metadata
+metadata/metadata1_original.xml
+
+
+### Data Basin Metadata
+metadata/metadata1.xml
+
+
+### Data Files
+data/./0000Winter Recreation Sites_ Mt_ Hood and Willamette National Forests_ Oregon_ _polygon_.lyr
+data/v93/climatevulnerabilityfinal_data0.gdb/a00000026.gdbtable
+data/v93/climatevulnerabilityfinal_data0.gdb/a00000008.gdbtablx
+data/v93/climatevulnerabilityfinal_data0.gdb/a00000005.gdbtablx
+data/v93/climatevulnerabilityfinal_data0.gdb/a00000006.gdbindexes
+data/v93/climatevulnerabilityfinal_data0.gdb/a00000026.gdbindexes
+data/v93/climatevulnerabilityfinal_data0.gdb/a00000026.spx
+data/v93/climatevulnerabilityfinal_data0.gdb/a00000002.gdbtable
+data/v93/climatevulnerabilityfinal_data0.gdb/a00000006.gdbtable
+data/v93/climatevulnerabilityfinal_data0.gdb/a00000005.gdbtable
+data/v93/climatevulnerabilityfinal_data0.gdb/a00000007.gdbtable
+data/v93/climatevulnerabilityfinal_data0.gdb/a0000001c.gdbtablx
+data/v93/climatevulnerabilityfinal_data0.gdb/a00000003.gdbtablx
+data/v93/climatevulnerabilityfinal_data0.gdb/a00000003.gdbindexes
+data/v93/climatevulnerabilityfinal_data0.gdb/a0000001c.gdbindexes
+data/v93/climatevulnerabilityfinal_data0.gdb/a00000008.gdbtable
+data/v93/climatevulnerabilityfinal_data0.gdb/a00000001.gdbindexes
+data/v93/climatevulnerabilityfinal_data0.gdb/a00000026.gdbtablx
+data/v93/climatevulnerabilityfinal_data0.gdb/a00000007.gdbtablx
+data/v93/climatevulnerabilityfinal_data0.gdb/a0000001c.gdbtable
+data/v93/climatevulnerabilityfinal_data0.gdb/a00000004.gdbtablx
+data/v93/climatevulnerabilityfinal_data0.gdb/timestamps
+data/v93/climatevulnerabilityfinal_data0.gdb/a00000001.gdbtable
+data/v93/climatevulnerabilityfinal_data0.gdb/a00000004.gdbtable
+data/v93/climatevulnerabilityfinal_data0.gdb/a00000002.gdbtablx
+data/v93/climatevulnerabilityfinal_data0.gdb/a00000003.gdbtable
+data/v93/climatevulnerabilityfinal_data0.gdb/a00000006.gdbtablx
+data/v93/climatevulnerabilityfinal_data0.gdb/a00000001.gdbtablx
+data/v93/climatevulnerabilityfinal_data0.gdb/gdb
+data/v93/climatevulnerabilityfinal_data0.gdb/a00000005.gdbindexes
+data/esriinfo/item.pkinfo
+data/esriinfo/iteminfo.xml
+data/esriinfo/thumbnail/thumbnail.png
+
+
+
+### Attribute Data
+
+FORESTNAME    FORESTNAME    The Forest where the developed winter recreation area operates.    
+NOTES    NOTES    General notes associated with the winter recreation facility/area.    
+OBJECTID    OBJECTID    Internal feature number.    
+RECAREANAME    RECAREANAME    Name of the developed recreation area.    
+SHAPE    SHAPE    Feature geometry.    
+SHAPE_Area    SHAPE_Area    Area of feature in internal units squared.    
+SHAPE_Length    SHAPE_Length    Length of feature in internal units.    
+TYPE    TYPE    The type of winter recreation site.    
+

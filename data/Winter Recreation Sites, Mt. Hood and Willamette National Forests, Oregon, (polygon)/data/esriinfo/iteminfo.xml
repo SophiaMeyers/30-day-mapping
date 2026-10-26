@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ESRI_ItemInformation Culture='en-US'>
+<name>aedb344b933f4ce3933d5ffa6ead53b2</name>
+<guid>47AC2CCA-EAD4-49C8-99BF-B53E8BA463C0</guid>
+<catalogpath></catalogpath>
+<snippet></snippet>
+<description>This dataset contains polygon boundaries of developed winter recreation areas operating on the Mt. Hood and Willamette National Forests. This data contains basic attributes to describe the recreation area name and unit location. This dataset was derived by copying the developed recreation boundaries stored within each Forests&apos; corporate recreation GIS dataset.
+
+This dataset was uploaded to Data Basin and is available with additional information at: http://app.databasin.org/app/pages/datasetPage.jsp?id=aedb344b933f4ce3933d5ffa6ead53b2</description>
+<summary></summary>
+<title>Winter Recreation Sites_ Mt. Hood and Willamette National Forests_ Oregon_ _polygon_</title>
+<tags></tags>
+<type>Layer Package</type>
+<typekeywords>
+<typekeyword>File Geodatabase Feature Class</typekeyword>
+<typekeyword>Layer Package</typekeyword>
+<typekeyword>Data</typekeyword>
+<typekeyword>ArcMap</typekeyword>
+<typekeyword>.lpk</typekeyword>
+</typekeywords>
+<thumbnail>thumbnail/thumbnail.png</thumbnail>
+<documentation></documentation>
+<url></url>
+<datalastmodifiedtime></datalastmodifiedtime>
+<extent>
+<xmin>-122.113939908881</xmin>
+<ymin>43.6013608468564</ymin>
+<xmax>-121.547742140228</xmax>
+<ymax>45.4224863164188</ymax>
+</extent>
+<spatialreference>NAD_1983_Oregon_Washington_Albers</spatialreference>
+<accessinformation>USDA Forest Service</accessinformation>
+</ESRI_ItemInformation>
