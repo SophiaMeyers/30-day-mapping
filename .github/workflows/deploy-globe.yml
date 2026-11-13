@@ -1,12 +1,9 @@
-name: Deploy Projected Globe
+name: Deploy GitHub Pages
 
 on:
   push:
     branches:
       - main
-    paths:
-      - "projection-globe/**"
-      - ".github/workflows/deploy-globe.yml"
   workflow_dispatch:
 
 permissions:
@@ -44,6 +41,8 @@ jobs:
 
       - name: Prepare website
         run: |
+          mkdir -p _site
+          rsync -a --exclude='.git/' --exclude='.github/' --exclude='_site/' --exclude='node_modules/' --exclude='dist/' --exclude='.env*' --exclude='projection-globe/' --exclude='*.tif' --exclude='*.tiff' --exclude='*.zip' --exclude='*.gpkg' --exclude='*.gdb' --exclude='*.mov' --exclude='*.qgz' --exclude='*.shp' --exclude='*.shx' --exclude='*.dbf' --exclude='*.prj' --exclude='*.cpg' ./ _site/
           mkdir -p _site/projection-globe
           cp -a projection-globe/dist/. _site/projection-globe/
 
@@ -51,6 +50,7 @@ jobs:
         uses: actions/upload-pages-artifact@v3
         with:
           path: _site
+
   deploy:
     environment:
       name: github-pages
