@@ -1,0 +1,44 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>THE PROJECTED GLOBE</title>
+</head>
+<body>
+  <div id="app">
+
+    <header class="masthead">
+      <!-- <div class="eyebrow">EXPERIMENTAL CARTOGRAPHY</div> -->
+      <h1>THE PROJECTED GLOBE</h1>
+      <p class="subtitle">CYLINDRICAL CONFORMAL</p>
+    </header>
+
+    <div id="globe-container"></div>
+
+    <section class="transformation">
+      <div class="control-heading">TRANSFORMATION</div>
+
+      <div class="slider-row">
+        <span class="slider-label">SPHERE</span>
+        <input
+          id="transform-slider"
+          type="range"
+          min="0"
+          max="100"
+          value="0"
+          step="1"
+          aria-label="Transform sphere into Mercator projection"
+        >
+        <span class="slider-label">MERCATOR</span>
+      </div>
+
+      <button id="reset" type="button">RESET</button>
+    </section>
+
+  </div>
+
+  <script type="module" src="/src/main.js"></script>
+</body>
+</html>
