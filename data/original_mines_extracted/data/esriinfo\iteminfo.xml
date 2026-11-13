@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ESRI_ItemInformation Culture='en-US'>
+<name>af28b34e1eef473f8956e4037418b6b3</name>
+<guid>7B87547C-A016-4299-AE88-ED052A4531AB</guid>
+<catalogpath></catalogpath>
+<snippet></snippet>
+<description>Layer for Mines_Africa_MiddleEast</description>
+<summary></summary>
+<title>Mines_Africa_MiddleEast</title>
+<tags></tags>
+<type>Layer Package</type>
+<typekeywords>
+<typekeyword>Shapefile Feature Class</typekeyword>
+<typekeyword>Layer Package</typekeyword>
+<typekeyword>Data</typekeyword>
+<typekeyword>ArcMap</typekeyword>
+<typekeyword>.lpk</typekeyword>
+</typekeywords>
+<thumbnail>thumbnail/thumbnail.png</thumbnail>
+<documentation></documentation>
+<url></url>
+<datalastmodifiedtime></datalastmodifiedtime>
+<extent>
+<xmin>-25</xmin>
+<ymin>-34.183</ymin>
+<xmax>61.243</xmax>
+<ymax>48.7</ymax>
+</extent>
+<spatialreference>GCS_WGS_1984</spatialreference>
+<accessinformation></accessinformation>
+</ESRI_ItemInformation>

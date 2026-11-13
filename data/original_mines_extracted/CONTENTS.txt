@@ -1,0 +1,84 @@
+
+# Mineral Operations of Africa and the Middle East
+
+
+## URL
+https://databasin.org/datasets/af28b34e1eef473f8956e4037418b6b3/
+
+
+## Dataset Type
+ArcGIS
+
+
+## Credits
+J.M. Eros,Luissette Candelario-Quintana
+
+
+## Uploaded By
+[Conservation Biology Institute](https://databasin.org/people/consbio/)
+
+
+## Description
+This dataset consists of records for over 1,500 mineral facilities in
+Africa and the Middle East. The mineral facilities include mines,
+plants, mills , or refineries of aluminum, cement, coal, copper,
+diamond, gold, iron and steel, nickel, platinum-group metals, salt, and
+silver, among others. Records include attributes such as commodity,
+country, site, company name, plant capacity if applicable, and
+generalized coordinates. The data were compiled from multiple sources,
+including the 2004 USGS Minerals Yearbook (Africa and Middle East
+volume), minerals statistics and information from the USGS minerals
+information Web site (http://minerals.usgs.gov/minerals/), and data
+collected by USGS minerals information country specialists. Data reflect
+the most recent published table of industry structure for each country.
+Other sources include statistical publications of individual countries,
+annual reports and press releases of operating companies, and trade
+journals. Due to the sensitivity of some energy commodity data, the
+quality of these data should be evaluated on a country-by-country basis.
+Additional information and explanation is available from the country specialists.
+
+
+## Use Constraints
+This work is licensed under a  Creative Commons Attribution 3.0 License .
+
+
+### Original Metadata
+metadata/metadata1_original.xml
+
+
+### Data Basin Metadata
+metadata/metadata1.xml
+
+
+### Data Files
+data/./esriinfo\thumbnail\thumbnail.png
+data/./esriinfo\iteminfo.xml
+data/./esriinfo\item.pkinfo
+data/./commonData\Data0\Mines_Africa_MiddleEast.shx
+data/./commonData\Data0\Mines_Africa_MiddleEast.shp.xml
+data/./commonData\Data0\Mines_Africa_MiddleEast.shp
+data/./commonData\Data0\Mines_Africa_MiddleEast.prj
+data/./commonData\Data0\Mines_Africa_MiddleEast.dbf
+data/./0000Mines_Africa_MiddleEast.lyr
+
+
+
+### Attribute Data
+
+CAPACITY    CAPACITY    The amount it is possible to produce at the facility    
+COMMODITY    COMMODITY    The material mined or processed at the site    
+COMPANY    COMPANY    The principal company operating at the site    
+COUNTRY    COUNTRY    The country in which the mine or processing plant is located    
+FACILITY    FACILITY    The type of operation -- may be a mine or one of several kinds of processing plants    
+FID    FID    None    
+ID    ID    Unique ID of point    
+LATITUDE    LATITUDE    Angular distance measured on a meridian north or south from the equator, measured in decimal degrees.    
+LONGITUDE    LONGITUDE    Angular distance between the plane of a meridian east or west from the plane of the meridian of Greenwich, measured in decimal degrees.    
+METHOD    METHOD    The method of mining used by the operation if it is considered to be a mine    
+METHOD_1    METHOD_1    The method of mining used by the operation if it is considered to be a mine - LABEL    
+Shape    Shape    None    
+SITE    SITE    Name given to a mine or processing plant that distinguishes it from others the company owning the facility may have. It may be the name of the facility given to it by the company or others in the industry or it may be the name of the nearest city or province.    
+STATUS    STATUS    An indicator of whether an operation was producing in 2004    
+STATUS_1    STATUS_1    An indicator of whether an operation was producing in 2004 - LABEL    
+UNITS    UNITS    The unit of measure for the plant capacity attribute of the site.    
+

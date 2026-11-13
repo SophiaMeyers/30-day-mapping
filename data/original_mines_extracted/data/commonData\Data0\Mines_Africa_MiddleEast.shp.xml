@@ -1,0 +1,355 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metadata>
+	<idinfo>
+		<citation><citeinfo>
+				<origin>J.M. Eros</origin><origin>Luissette Candelario-Quintana</origin>
+				<pubdate>2006</pubdate>
+				<title>Mineral Operations of Africa and the Middle East</title>
+				<serinfo><sername>Derived from USGS Open-File report</sername><issue>2006-1135</issue></serinfo>
+				<geoform>vector digital data</geoform>
+				<pubinfo><pubdate></pubdate>
+					<pubplace>Reston, Virginia</pubplace>
+					<publish>U.S. Geological Survey</publish>
+				</pubinfo>
+				<onlink>http://mrdata.usgs.gov/</onlink>
+				<othercit></othercit><lworkcit><citeinfo><title>Mineral Facilities of Africa and the Middle East</title><pubdate>2006</pubdate><othercit></othercit><origin>J.M. Eros</origin><origin>Luissette Candelario-Quintana</origin><onlink>http://pubs.usgs.gov/of/2006/1135/</onlink><pubinfo><pubdate></pubdate><publish>U.S. Geological Survey</publish><pubplace/></pubinfo></citeinfo></lworkcit></citeinfo>
+			<citeinfo/><citeinfo/></citation>
+		<descript>
+			<abstract>This dataset consists of records for over 1,500 mineral facilities in
+
+Africa and the Middle East. The mineral facilities include mines,
+
+plants, mills , or refineries of aluminum, cement, coal, copper,
+
+diamond, gold, iron and steel, nickel, platinum-group metals, salt, and
+
+silver, among others. Records include attributes such as commodity,
+
+country, site, company name, plant capacity if applicable, and
+
+generalized coordinates. The data were compiled from multiple sources,
+
+including the 2004 USGS Minerals Yearbook (Africa and Middle East
+
+volume), minerals statistics and information from the USGS minerals
+
+information Web site (http://minerals.usgs.gov/minerals/), and data
+
+collected by USGS minerals information country specialists. Data reflect
+
+the most recent published table of industry structure for each country.
+
+Other sources include statistical publications of individual countries,
+
+annual reports and press releases of operating companies, and trade
+
+journals. Due to the sensitivity of some energy commodity data, the
+
+quality of these data should be evaluated on a country-by-country basis.
+
+Additional information and explanation is available from the country specialists.</abstract>
+			<purpose>The purpose of this data set is to present information about the mineral facilities  of Africa and the Mineral East, including their location, ownership or operating company, operating status,  and capacity. This data set reflects the mineral operations pertinent to commodities discussed in the International Minerals Yearbook chapters of the USGS.</purpose>
+			<supplinf></supplinf>
+		</descript>
+		<timeperd><timeinfo><current/></timeinfo>
+			<current>ground condition</current><timeinfo/><timeinfo/></timeperd>
+		<keywords>
+			<theme><themekey>aggregate</themekey><themekey>alumina</themekey><themekey>aluminum</themekey><themekey>antimony</themekey><themekey>arsenic</themekey><themekey>asbestos</themekey><themekey>barite</themekey><themekey>bauxite</themekey><themekey>bentonite</themekey><themekey>boron</themekey><themekey>bromine</themekey><themekey>cadmium</themekey><themekey>cement</themekey><themekey>chromium</themekey><themekey>clay</themekey><themekey>cobalt</themekey><themekey>columbium</themekey><themekey>copper</themekey><themekey>diamond</themekey><themekey>diatomite</themekey><themekey>dimension stone</themekey><themekey>ferroalloys</themekey><themekey>fluorspar</themekey><themekey>gemstone</themekey><themekey>germanium</themekey><themekey>gold</themekey><themekey>graphite</themekey><themekey>gypsum</themekey><themekey>iron</themekey><themekey>kaolin</themekey><themekey>lead</themekey><themekey>lime</themekey><themekey>lithium</themekey><themekey>magnesium</themekey><themekey>manganese</themekey><themekey>mercury</themekey><themekey>mica</themekey><themekey>molybdenum</themekey><themekey>nickel</themekey><themekey>niobium</themekey><themekey>nitrogen</themekey><themekey>peat</themekey><themekey>perlite</themekey><themekey>phosphate</themekey><themekey>platinum group metals</themekey><themekey>potash</themekey><themekey>pyrophyllite</themekey><themekey>salt</themekey><themekey>selenium</themekey><themekey>silicon</themekey><themekey>silver</themekey><themekey>soda ash</themekey><themekey>stone</themekey><themekey>stone - crushed</themekey><themekey>stone - dimension</themekey><themekey>sulfur</themekey><themekey>talc</themekey><themekey>tantalum</themekey><themekey>tin</themekey><themekey>titanium</themekey><themekey>tungsten</themekey><themekey>vanadium</themekey><themekey>vermiculite</themekey><themekey>wollastonite</themekey><themekey>zeolite</themekey><themekey>zinc</themekey><themekey>zirconium</themekey><themekey>crushed stone</themekey><themekey>commodity</themekey><themekey>metal</themekey><themekey>mine</themekey><themekey>mineral</themekey><themekey>processing plant</themekey><themekt>Data Basin tags</themekt></theme></keywords>
+		<accconst>None</accconst>
+		<useconst>&lt;a rel="license" style="float:right;" href="http://creativecommons.org/licenses/by/3.0/" target="_blank"&gt;&lt;img alt="Creative Commons License" style="border-width:0" src="http://creativecommons.org/images/public/somerights20.png" /&gt;&lt;/a&gt;This work is licensed under a &lt;a rel="license" href="http://creativecommons.org/licenses/by/3.0/" target="_blank"&gt;Creative Commons Attribution 3.0 License&lt;/a&gt;.</useconst>
+		<ptcontac>
+			<cntinfo>
+				<cntperp><cntper>Yolanda Fong-Sam</cntper><cntorg>U. S. Geological Survey</cntorg></cntperp>
+				<cntemail>yfongs-sam@usgs.gov</cntemail>
+			</cntinfo>
+			<cntinfo/><cntinfo/></ptcontac>
+		<datacred>International Section of the Minerals Information Team of the U.S. Geological Survey.
+
+
+
+This dataset was obtained by the Conservation Biology Institute from the USGS (http://tin.er.usgs.gov/) on 6/10/08.  Attributes were modified slightly to remove non-UTF8 characters.</datacred>
+		<status><progress>Complete</progress><update>None Planned</update></status><spdom><bounding/><bounding/></spdom></idinfo>
+	<dataqual>
+		<attracc>
+			<attraccr>No gurarantee is made as to the accuracy of the attributes. Attributes values represent best-available data from research of sources such as statistical publications of individual countries, annual reports and press releases of operating companies, and trade journals.  Coordinates were added by researching the company name and general location; in some cases coordinates may be that of the nearest town or province centroid. Due to the sensitivity of some energy commodity data, the quality of these data should be evaluated on a country-by-country basis.</attraccr></attracc>
+		<logic>No test for logical consistency was performed on this data set.
+
+It should be noted that values for the field describing plant capacities are in various units of measure; another field records the unit of measure.</logic>
+		<complete>The data were gathered in support of the USGS Minerals Yearbook (Volume III. -- Area Reports: International). An attempt was made to include operations known to be or have been economically significant and therefore included in the Yearbook tables, if not directly mentioned then these operations in some way were ones for which production numbers were calculated to create the Yearbook tables. This downloadable data set is missing 141 operations for which coordinates could not be found; however the USGS Open File Report 2006-1135 (the larger work from which this data set is derived) lists these operations without their coordinates.</complete>
+		<posacc>
+			<horizpa>
+				<horizpar>The coordinates of the operations were obtained at a world scale.  In many cases the coordinates are those of nearby cities or province centroids, especially where the site name is that of a city or province.</horizpar>
+			</horizpa>
+		</posacc>
+		<lineage>
+			<srcinfo>
+				<srccite><citeinfo>
+						<origin>The United States Board on Geographic Names</origin>
+						<pubdate>Unknown</pubdate>
+						<title>GEOnet Names Server</title>
+						<geoform>tabular digital data</geoform>
+						<pubinfo>
+							<pubplace>online</pubplace>
+							<publish>National Geospatial-Intelligence Agency</publish>
+						</pubinfo>
+						<onlink>http://gnswww.nga.mil/geonames/GNS/index.jsp</onlink>
+					</citeinfo>
+				</srccite>
+				<typesrc>online</typesrc>
+				<srctime><timeinfo><sngdate><caldate>2006</caldate></sngdate></timeinfo>
+					<srccurr>ground condition</srccurr>
+				</srctime>
+				<srccitea>GEOnet</srccitea>
+				<srccontr>The GEOnet Names Server (GNS) provides access to the National Geospatial-Intelligence Agency's (NGA) and the U.S. Board on Geographic Names' (US BGN) database of foreign geographic feature names. The database is the official repository of foreign place-name decisions approved by the US BGN. Approximately 20,000 of the database's features are updated monthly. This source was used when it was necessary to use a locality as the coordinates rather than the actual site.</srccontr>
+			</srcinfo>
+			<srcinfo>
+				<srccite><citeinfo>
+						<origin>Falling Rain Genomics</origin>
+						<pubdate>Unknown</pubdate>
+						<title>Global Gazetteer Version 2.1</title>
+						<pubinfo>
+							<pubplace/>
+							<publish/>
+						</pubinfo>
+						<onlink>http://www.fallingrain.com/world/</onlink>
+					</citeinfo>
+				</srccite>
+				<typesrc>online</typesrc>
+				<srctime><timeinfo><sngdate><caldate>unknown</caldate></sngdate></timeinfo>
+					<srccurr>publication date</srccurr>
+				</srctime>
+				<srccitea>Global Gazeteer Version 2.1</srccitea>
+				<srccontr>This website contains generalized coordinates for worldwide place names, which were sometimes used as coordinates for operations.</srccontr>
+			</srcinfo>
+			<srcinfo>
+				<srccite><citeinfo>
+						<origin>U.S. Geological Survey</origin>
+						<pubdate>2004</pubdate>
+						<title>Minerals Yearbook (Volume III. -- Area Reports: International)</title>
+						<serinfo><sername>2004 Minerals Yearbook</sername><issue>Volume 3</issue></serinfo>
+						<geoform>document</geoform>
+						<pubinfo>
+							<pubplace>Reston, VA</pubplace>
+							<publish>U.S. Geological Survey</publish>
+						</pubinfo>
+						<onlink>http://minerals.usgs.gov/minerals/pubs/country/index.html#pubs</onlink>
+					</citeinfo>
+				</srccite>
+				<typesrc>online</typesrc>
+				<srctime><timeinfo><sngdate><caldate>2004</caldate></sngdate></timeinfo>
+					<srccurr>ground condition</srccurr>
+				</srctime>
+				<srccitea>USGS Minerals Yearbook 2004 Volume 3</srccitea>
+				<srccontr>The USGS Minerals Yearbook Volume 3 covers the mineral industries of countries other than the United States.</srccontr>
+			</srcinfo>
+			<srcinfo>
+				<srccite><citeinfo>
+						<origin>U.S. Geological Survey</origin>
+						<pubdate>2003</pubdate>
+						<title>Minerals Yearbook (Volume III. -- Area Reports: International)</title>
+						<serinfo><sername>2003 Minerals Yearbook</sername><issue>Volume 3</issue></serinfo>
+						<geoform>document</geoform>
+						<pubinfo>
+							<pubplace>Reston, VA</pubplace>
+							<publish>U.S. Geological Survey</publish>
+						</pubinfo>
+						<onlink>http://minerals.usgs.gov/minerals/pubs/country/index.html#pubs</onlink>
+					</citeinfo>
+				</srccite>
+				<typesrc>online</typesrc>
+				<srctime><timeinfo><sngdate><caldate>2003</caldate></sngdate></timeinfo>
+					<srccurr>ground condition</srccurr>
+				</srctime>
+				<srccitea>USGS Minerals Yearbook 2003 Volume 3</srccitea>
+				<srccontr>The USGS Minerals Yearbook Volume 3 covers the mineral industries of countries other than the United States and was used if the 2004 chapter for a particular country was not available.</srccontr>
+			</srcinfo>
+			<procstep>
+				<procdesc>USGS Minerals Information Team Country Specialists provided the authors of U.S. Geological Survey Open-File Report 2006-1135 with lists of operations known to be active in the countries of Africa and the Middle East based on their research of statistical publications of individual countries, annual reports and press releases of operating companies, and trade journals. Plant capacities were also provided when possible.</procdesc>
+				<srcused>USGS Minerals Yearbook Volume 3</srcused>
+				<procdate>2003-2006</procdate>
+			</procstep>
+			<procstep>
+				<procdesc>Using available information such as company name and province or nearest city in which it is located, coordinates were obtained from various sources.  Coordinates may be very general, such as a representative point in the province or the nearest city</procdesc>
+				<srcused>Global Gazetteer Version 2.1</srcused>
+				<srcused>GEOnet</srcused>
+				<procdate>2003-2006</procdate>
+			</procstep>
+			<procstep>
+				<procdesc>Open-File Reort 2006-1135 was created, which is in the form of a map (adobe illustrator and pdf) and an excel spreadsheet.</procdesc>
+				<procdate>2006</procdate>
+			</procstep>
+			<procstep>
+				<procdesc>Records without coordinates (141) were deleted from the spreadsheet published as part of the open-file report. The resulting table was added to ArcMap 9.1 and exported as a shapefile</procdesc>
+				<procdate>2006</procdate>
+			</procstep>
+			<procstep>
+				<procdesc>Dataset copied.</procdesc>
+			</procstep>
+		</lineage>
+	</dataqual>
+	<spdoinfo>
+		<direct>Point</direct>
+		<ptvctinf>
+			<sdtsterm><sdtstype>Point</sdtstype>
+				<ptvctcnt>1451</ptvctcnt></sdtsterm>
+		</ptvctinf>
+	</spdoinfo>
+	<spref>
+		<horizsys>
+			<geograph><latres>0</latres><longres>0</longres><geogunit>Decimal degreees</geogunit></geograph>
+			<geodetic>
+				<horizdn>D_WGS_1984</horizdn><ellips>WGS_1984</ellips><semiaxis>6378137.000000</semiaxis><denflat>298.257224</denflat>
+			</geodetic>
+		</horizsys>/n</spref>
+	<eainfo>
+		<detailed>
+			<enttyp>
+				<enttypl>Mineral facilities of Africa and the Middle East</enttypl>/n<enttypd>A mineral facility can be a mine or a processing plant of a mineral or other commodity referenced in the USGS Minerals Yearbooks</enttypd>/n<enttypds>USGS Minerals Information Team</enttypds>
+			</enttyp><attr>
+				<attrlabl>ID</attrlabl>
+				<attrdef>Unique ID of point</attrdef>
+				<attrdefs>Conservation Biology Institute</attrdefs>
+				<attalias>ID</attalias><attrdomv/></attr>
+			<attr>
+				<attrlabl>COUNTRY</attrlabl>
+				<attrdef>The country in which the mine or processing plant is located</attrdef>
+				<attrdefs>USGS Minerals Information Team</attrdefs>
+				<attalias>COUNTRY</attalias><attrdomv/></attr>
+			<attr>
+				<attrlabl>SITE</attrlabl>
+				<attrdef>Name given to a mine or processing plant that distinguishes it from others the company owning the facility may have. It may be the name of the facility given to it by the company or others in the industry or it may be the name of the nearest city or province.</attrdef>
+				<attrdefs>Various professional directories</attrdefs>
+				<attalias>SITE</attalias><attrdomv/></attr>
+			<attr>
+				<attrlabl>FACILITY</attrlabl>
+				<attrdef>The type of operation -- may be a mine or one of several kinds of processing plants</attrdef>
+				<attrdefs>U.S. Geological Survey, Minerals Information Team</attrdefs>
+				<attalias>FACILITY</attalias><attrdomv/></attr>
+			<attr>
+				<attrlabl>LATITUDE</attrlabl>
+				<attrdef>Angular distance measured on a meridian north or south from the equator, measured in decimal degrees.</attrdef>
+				<attrdefs>Spatial Data Transfer Standard maintained by USGS and available at http://mcmcweb.er.usgs.gov/sdts/standard.html</attrdefs>
+				<attalias>LATITUDE</attalias><attrdomv/></attr>
+			<attr>
+				<attrlabl>LONGITUDE</attrlabl>
+				<attrdef>Angular distance between the plane of a meridian east or west from the plane of the meridian of Greenwich, measured in decimal degrees.</attrdef>
+				<attrdefs>Spatial Data Transfer Standard maintained by USGS and available at http://mcmcweb.er.usgs.gov/sdts/standard.html</attrdefs>
+				<attalias>LONGITUDE</attalias><attrdomv/></attr>
+			<attr>
+				<attrlabl>COMMODITY</attrlabl>
+				<attrdef>The material mined or processed at the site</attrdef>
+				<attrdefs>Various professional directories</attrdefs>
+				<attalias>COMMODITY</attalias><attrdomv/></attr>
+			<attr>
+				<attrlabl>METHOD</attrlabl>
+				<attrdef>The method of mining used by the operation if it is considered to be a mine</attrdef>
+				<attrdefs>U.S. Geological Survey, Minerals Information Team</attrdefs>
+				<attrdomv>
+					<edom><edomv>-</edomv><edomvd>Mining method is not known or is not applicable because the operation is a processing plant rather than a mine</edomvd><edomvds>U.S. Geological Survey, Minerals Information Team</edomvds></edom>
+					<edom><edomv>S</edomv><edomvd>The mine is an open-pit or other surface mine</edomvd><edomvds>U.S. Geological Survey, Minerals Information Team</edomvds></edom>
+					<edom><edomv>S, U</edomv><edomvd>The mine is an open-pit or other surface mine and also has an underground component</edomvd><edomvds>U.S. Geological Survey, Minerals Information Team</edomvds></edom>
+					<edom><edomv>U</edomv><edomvd>The operation is a an underground mine</edomvd><edomvds>U.S. Geological Survey, Minerals Information Team</edomvds></edom>
+					<edom><edomv>U, S</edomv><edomvd>The mine is an underground mine with surface operations as well</edomvd><edomvds>U.S. Geological Survey, Minerals Information Team</edomvds></edom>
+				</attrdomv>
+				<attalias>METHOD</attalias></attr>
+			<attr>
+				<attrlabl>COMPANY</attrlabl>
+				<attrdef>The principal company operating at the site</attrdef>
+				<attrdefs>Various professional directories</attrdefs>
+				<attalias>COMPANY</attalias><attrdomv/></attr>
+			<attr>
+				<attrlabl>STATUS</attrlabl>
+				<attrdef>An indicator of whether an operation was producing in 2004</attrdef>
+				<attrdefs>U.S. Geological Survey, Minerals Information Team</attrdefs>
+				<attrdomv>
+					<edom><edomv>active</edomv><edomvd>The operation was producing in 2004</edomvd><edomvds>U.S. Geological Survey, Minerals Information Team</edomvds></edom>
+					<edom><edomv>closed</edomv><edomvd>The operation was closed in 2004</edomvd><edomvds>U.S. Geological Survey, Minerals Information Team</edomvds></edom>
+				</attrdomv>
+				<attalias>STATUS</attalias></attr>
+			<attr>
+				<attrlabl>CAPACITY</attrlabl>
+				<attrdef>The amount it is possible to produce at the facility</attrdef>
+				<attrdefs>Various professional directories</attrdefs>
+				<attalias>CAPACITY</attalias><attrdomv/></attr>
+			<attr>
+				<attrlabl>UNITS</attrlabl>
+				<attrdef>The unit of measure for the plant capacity attribute of the site.</attrdef>
+				<attrdefs>U.S. Geological Survey, Minerals Information Team</attrdefs>
+				<attrdomv>
+					<edom><edomv>42 gallon barrels / day</edomv><edomvd>The plant capacity is measured by number of 42 gallon barrels that can be produced per day</edomvd><edomvds>Various professional directories</edomvds></edom>
+					<edom><edomv>42 gallon barrels / yr</edomv><edomvd>The plant capacity is measured by number of 42 gallon barrels that can be produced per year</edomvd><edomvds>Various professional directories</edomvds></edom>
+					<edom><edomv>carats / yr</edomv><edomvd>The plant capacity is measured in number of carats of the commodity that can be produced per year</edomvd><edomvds>Various professional directories</edomvds></edom>
+					<edom><edomv>cubic meters/yr</edomv><edomvd>The plant capacity is measured in number of cubic meters of the commodity that can be produced per year</edomvd><edomvds>Various professional directories</edomvds></edom>
+					<edom><edomv>kg / yr</edomv><edomvd>The plant capacity is measured in number of kilograms of the commodity that can be produced per year</edomvd><edomvds>Various professional directories</edomvds></edom>
+					<edom><edomv>million 42 gallon barrels / yr</edomv><edomvd>The plant capacity is measured in millions of 42 gallon barrels that can be produced per year</edomvd><edomvds>Various professional directories</edomvds></edom>
+					<edom><edomv>million cubic meters</edomv><edomvd>The plant capacity is measured in million cubic meters but it is not known if it is per year or per day</edomvd><edomvds>Various professional directories</edomvds></edom>
+					<edom><edomv>million cubic meters / yr</edomv><edomvd>The plant capacity is measured by the millions of cubic meters of the commodity that can be produced per year</edomvd><edomvds>Various professional directories</edomvds></edom>
+					<edom><edomv>t / yr</edomv><edomvd>The plant capacity is measured in tons per year -- it is not known whether these are short tons or metric tons</edomvd><edomvds>Various professional directories</edomvds></edom>
+					<edom><edomv>t / yr, kg / yr</edomv><edomvd>The plant capacity for the first commodity listed in the commodity field is measured in tons per year -- it is not known whether these are short tons or metric tons, and the plant capacity for the second commodity is measured  in kilograms that can be produced per year</edomvd><edomvds>Various professional directories</edomvds></edom>
+					<edom><edomv>thousand 42 gallon barrels / day</edomv><edomvd>The plant capacity is measured in thousands of barrels that can be produced per day that each hold 42 gallons</edomvd><edomvds>Various professional directories</edomvds></edom>
+					<edom><edomv>thousand 42 gallon barrels / yr</edomv><edomvd>The plant capacity is measured in thousands of barrels that can be produced per year that each hold 42 gallons</edomvd><edomvds>Various professional directories</edomvds></edom>
+				</attrdomv>
+				<attalias>UNITS</attalias></attr>
+			<attr>
+				<attrlabl>METHOD_1</attrlabl>
+				<attrdef>The method of mining used by the operation if it is considered to be a mine - LABEL</attrdef>
+				<attrdefs>U.S. Geological Survey, Minerals Information Team</attrdefs>
+				<attalias>METHOD_1</attalias><attrdomv/></attr>
+			<attr>
+				<attrlabl>STATUS_1</attrlabl>
+				<attrdef>An indicator of whether an operation was producing in 2004 - LABEL</attrdef>
+				<attrdefs>U.S. Geological Survey, Minerals Information Team</attrdefs>
+				<attalias>STATUS_1</attalias><attrdomv/></attr>
+			<attr><attrlabl>FID</attrlabl><attalias>FID</attalias><attrdef/><attrdomv/></attr><attr><attrlabl>Shape</attrlabl><attalias>Shape</attalias><attrdef/><attrdomv/></attr></detailed>
+	</eainfo>
+	<distinfo>
+		<resdesc/>
+		<stdorder>
+			<digform>
+				<digtopt><onlinopt>
+						<computer><networka><networkr>http://pubs.usgs.gov/of/2006/1135/</networkr></networka></computer>
+						<accinstr/>
+					</onlinopt>
+				</digtopt>
+			</digform>
+		</stdorder>
+		<distrib>
+			<cntinfo>
+				<cntperp><cntper>Yolanda Fong-Sam</cntper><cntorg>U.S. Geological Survey</cntorg></cntperp>
+				<cntpos/>
+				<cntaddr>
+					<addrtype>mailing Address</addrtype>
+					<address>991 National Center</address>
+					<city>Reston</city>
+					<state>VA</state>
+					<postal>20192</postal>
+					<country/>
+				</cntaddr>
+				<cntvoice>703 648-7756</cntvoice>
+				<cntemail>Yfong-sam@usgs.gov</cntemail>
+			</cntinfo>
+		</distrib>
+		<distliab>Although these data have been used by the U.S. Geological Survey, U.S. Department of the Interior, no warranty expressed or implied is made by the U.S. Geological Survey as to the accuracy of the data.  The act of distribution shall not constitute any such warranty, and no responsibility is assumed by the U.S. Geological Survey in the use of these data, software, or related materials. The use of firm, trade, or brand names in this report is for identification purposes only and does not constitute endorsement by the U.S. Geological Survey.  The names mentioned in this document may be trademarks or registered trademarks of their respective trademark owners.</distliab>
+	</distinfo>
+	<metainfo>
+		<metd>2006</metd>
+		<metc>
+			<cntinfo>
+				<cntorgp><cntorg>USGS Minerals Information Team</cntorg><cntper>Robert Callaghan</cntper></cntorgp>
+				<cntpos/>
+				<cntaddr>
+					<addrtype>mailing Address</addrtype>
+					<address>983 National Center</address>
+					<city>Reston</city>
+					<state>VA</state>
+					<postal>20192</postal>
+					<country/>
+				</cntaddr>
+				<cntvoice>703-648-7709</cntvoice>
+				<cntemail>rcallaghan@usgs.gov</cntemail>
+			</cntinfo>
+		</metc>
+		<metstdn>Content Standard for Digital Geospatial Metadata</metstdn>
+		<metstdv>FGDC-STD-001-1998</metstdv>
+	</metainfo>
+	<Esri><CreaDate>20100608</CreaDate><CreaTime>11003300</CreaTime><SyncOnce>TRUE</SyncOnce><ArcGISFormat>1.0</ArcGISFormat><DataProperties><lineage><Process ToolSource="C:\Program Files (x86)\ArcGIS\Server10.0\ArcToolbox\Toolboxes\Data Management Tools.tbx\Project" Date="20100608" Time="105825">Project C:\arcgisserver\services\im\af28b34e1eef473f8956e4037418b6b3\data\Mines_Africa_MiddleEast\Mines_Africa_MiddleEast.shp C:\arcgisserver\services\im\af28b34e1eef473f8956e4037418b6b3\data\Mines_Africa_MiddleEast\p_Mines_Africa_MiddleEast.shp PROJCS['WGS_1984_Web_Mercator_Auxiliary_Sphere',GEOGCS['GCS_WGS_1984',DATUM['D_WGS_1984',SPHEROID['WGS_1984',6378137.0,298.257223563]],PRIMEM['Greenwich',0.0],UNIT['Degree',0.0174532925199433]],PROJECTION['Mercator_Auxiliary_Sphere'],PARAMETER['False_Easting',0.0],PARAMETER['False_Northing',0.0],PARAMETER['Central_Meridian',0.0],PARAMETER['Standard_Parallel_1',0.0],PARAMETER['Auxiliary_Sphere_Type',0.0],UNIT['Meter',1.0]] # GEOGCS['GCS_WGS_1984',DATUM['D_WGS_1984',SPHEROID['WGS_1984',6378137.0,298.257223563]],PRIMEM['Greenwich',0.0],UNIT['Degree',0.0174532925199433]]</Process></lineage><itemProps><itemLocation><linkage Sync="TRUE">file://\\IP-0AC3B2DF\C\arcgisserver\services\im\af28b34e1eef473f8956e4037418b6b3\af28b34e1eef473f8956e4037418b6b3\commonData\Data0\Mines_Africa_MiddleEast</linkage><protocol Sync="TRUE">Local Area Network</protocol></itemLocation></itemProps><copyHistory><copy source="C:\Users\ARCGIS~1\AppData\Local\Temp\temp820963445196584620522909653213803476\data\Mines_Africa_MiddleEast\Mines_Africa_MiddleEast" dest="\\IP-0AC3B2DF\C\arcgisserver\services\im\af28b34e1eef473f8956e4037418b6b3\af28b34e1eef473f8956e4037418b6b3\commonData\Data0\Mines_Africa_MiddleEast" date="20100608" time="11003300"></copy></copyHistory></DataProperties></Esri></metadata>

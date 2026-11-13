@@ -1,0 +1,294 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <idinfo>
+    <descript>
+      <abstract>This dataset consists of records for over 1,500 mineral facilities in Africa and the Middle East. The mineral facilities include mines, plants, mills , or refineries of aluminum, cement, coal, copper, diamond, gold, iron and steel, nickel, platinum-group metals, salt, and silver, among others. Records include attributes such as commodity, country, site, company name, plant capacity if applicable, and generalized coordinates. The data were compiled from multiple sources, including the 2004 USGS Minerals Yearbook (Africa and Middle East volume), minerals statistics and information from the USGS minerals information Web site (http://minerals.usgs.gov/minerals/), and data collected by USGS minerals information country specialists. Data reflect the most recent published table of industry structure for each country. Other sources include statistical publications of individual countries, annual reports and press releases of operating companies, and trade journals. Due to the sensitivity of some energy commodity data, the quality of these data should be evaluated on a country-by-country basis. Additional information and explanation is available from the country specialists.</abstract>
+      <purpose>The purpose of this data set is to present information about the mineral facilities of Africa and the Mineral East, including their location, ownership or operating company, operating status, and capacity. This data set reflects the mineral operations pertinent to commodities discussed in the International Minerals Yearbook chapters of the USGS.</purpose>
+      <supplinf />
+    </descript>
+    <useconst>(http://creativecommons.org/licenses/by/3.0/)This work is licensed under a Creative Commons Attribution 3.0 License (http://creativecommons.org/licenses/by/3.0/).</useconst>
+    <datacred>International Section of the Minerals Information Team of the U.S. Geological Survey. This dataset was obtained by the Conservation Biology Institute from the USGS (http://tin.er.usgs.gov/) on 6/10/08. Attributes were modified slightly to remove non-UTF8 characters.</datacred>
+    <citation>
+      <citeinfo>
+        <title>Mineral Operations of Africa and the Middle East</title>
+        <pubdate />
+        <othercit>Title: Mineral Operations of Africa and the Middle East
+Credits: J.M. Eros,Luissette Candelario-Quintana
+Publication Date: 2006
+Publisher: U.S. Geological Survey
+Online Linkages: http://mrdata.usgs.gov/
+Larger Works:
+
+Title: Mineral Facilities of Africa and the Middle East
+Credits: J.M. Eros, Luissette Candelario-Quintana
+Publication Date: 2006
+Publisher: U.S. Geological Survey
+Online Linkages: http://pubs.usgs.gov/of/2006/1135/</othercit>
+        <origin>J.M. Eros</origin>
+        <origin>Luissette Candelario-Quintana</origin>
+        <onlink>http://app.databasin.org/app/pages/datasetPage.jsp?id=af28b34e1eef473f8956e4037418b6b3</onlink>
+        <pubinfo>
+          <publish />
+          <pubplace />
+        </pubinfo>
+      </citeinfo>
+    </citation>
+    <ptcontac>
+      <cntinfo>
+        <cntperp>
+          <cntper>Yolanda Fong-Sam (yfongs-sam@usgs.gov)</cntper>
+          <cntorg>U. S. Geological Survey</cntorg>
+        </cntperp>
+      </cntinfo>
+    </ptcontac>
+    <status>
+      <progress />
+      <update />
+    </status>
+    <timeperd>
+      <timeinfo>
+        <sngdate />
+        <current />
+      </timeinfo>
+    </timeperd>
+    <keywords>
+      <theme>
+        <themekey>aggregate</themekey>
+        <themekey>alumina</themekey>
+        <themekey>aluminum</themekey>
+        <themekey>antimony</themekey>
+        <themekey>arsenic</themekey>
+        <themekey>asbestos</themekey>
+        <themekey>barite</themekey>
+        <themekey>bauxite</themekey>
+        <themekey>bentonite</themekey>
+        <themekey>boron</themekey>
+        <themekey>bromine</themekey>
+        <themekey>cadmium</themekey>
+        <themekey>cement</themekey>
+        <themekey>chromium</themekey>
+        <themekey>clay</themekey>
+        <themekey>cobalt</themekey>
+        <themekey>columbium</themekey>
+        <themekey>copper</themekey>
+        <themekey>diamond</themekey>
+        <themekey>diatomite</themekey>
+        <themekey>dimension stone</themekey>
+        <themekey>ferroalloys</themekey>
+        <themekey>fluorspar</themekey>
+        <themekey>gemstone</themekey>
+        <themekey>germanium</themekey>
+        <themekey>gold</themekey>
+        <themekey>graphite</themekey>
+        <themekey>gypsum</themekey>
+        <themekey>iron</themekey>
+        <themekey>kaolin</themekey>
+        <themekey>lead</themekey>
+        <themekey>lime</themekey>
+        <themekey>lithium</themekey>
+        <themekey>magnesium</themekey>
+        <themekey>manganese</themekey>
+        <themekey>mercury</themekey>
+        <themekey>mica</themekey>
+        <themekey>molybdenum</themekey>
+        <themekey>nickel</themekey>
+        <themekey>niobium</themekey>
+        <themekey>nitrogen</themekey>
+        <themekey>peat</themekey>
+        <themekey>perlite</themekey>
+        <themekey>phosphate</themekey>
+        <themekey>platinum group metals</themekey>
+        <themekey>potash</themekey>
+        <themekey>pyrophyllite</themekey>
+        <themekey>salt</themekey>
+        <themekey>selenium</themekey>
+        <themekey>silicon</themekey>
+        <themekey>silver</themekey>
+        <themekey>soda ash</themekey>
+        <themekey>stone</themekey>
+        <themekey>stone - crushed</themekey>
+        <themekey>stone - dimension</themekey>
+        <themekey>sulfur</themekey>
+        <themekey>talc</themekey>
+        <themekey>tantalum</themekey>
+        <themekey>tin</themekey>
+        <themekey>titanium</themekey>
+        <themekey>tungsten</themekey>
+        <themekey>vanadium</themekey>
+        <themekey>vermiculite</themekey>
+        <themekey>wollastonite</themekey>
+        <themekey>zeolite</themekey>
+        <themekey>zinc</themekey>
+        <themekey>zirconium</themekey>
+        <themekey>crushed stone</themekey>
+        <themekey>commodity</themekey>
+        <themekey>metal</themekey>
+        <themekey>mine</themekey>
+        <themekey>mineral</themekey>
+        <themekey>processing plant</themekey>
+        <themekt>Data Basin tags</themekt>
+      </theme>
+    </keywords>
+    <spdom>
+      <bounding>
+        <northbc>51.65501045770219</northbc>
+        <eastbc>65.55515000000001</eastbc>
+        <southbc>-37.91394720106682</southbc>
+        <westbc>-29.312150000000017</westbc>
+      </bounding>
+    </spdom>
+  </idinfo>
+  <dataqual>
+    <attracc>
+      <attraccr>No gurarantee is made as to the accuracy of the attributes. Attributes values represent best-available data from research of sources such as statistical publications of individual countries, annual reports and press releases of operating companies, and trade journals. Coordinates were added by researching the company name and general location; in some cases coordinates may be that of the nearest town or province centroid. Due to the sensitivity of some energy commodity data, the quality of these data should be evaluated on a country-by-country basis.</attraccr>
+    </attracc>
+    <complete />
+    <lineage />
+  </dataqual>
+  <eainfo>
+    <detailed>
+      <attr>
+        <attrlabl>FID</attrlabl>
+        <attalias>FID</attalias>
+        <attrdef />
+        <attrdomv />
+      </attr>
+      <attr>
+        <attrlabl>Shape</attrlabl>
+        <attalias>Shape</attalias>
+        <attrdef />
+        <attrdomv />
+      </attr>
+      <attr>
+        <attrlabl>ID</attrlabl>
+        <attalias>ID</attalias>
+        <attrdef>Unique ID of point</attrdef>
+        <attrdomv />
+      </attr>
+      <attr>
+        <attrlabl>COUNTRY</attrlabl>
+        <attalias>COUNTRY</attalias>
+        <attrdef>The country in which the mine or processing plant is located</attrdef>
+        <attrdomv />
+      </attr>
+      <attr>
+        <attrlabl>SITE</attrlabl>
+        <attalias>SITE</attalias>
+        <attrdef>Name given to a mine or processing plant that distinguishes it from others the company owning the facility may have. It may be the name of the facility given to it by the company or others in the industry or it may be the name of the nearest city or province.</attrdef>
+        <attrdomv />
+      </attr>
+      <attr>
+        <attrlabl>FACILITY</attrlabl>
+        <attalias>FACILITY</attalias>
+        <attrdef>The type of operation -- may be a mine or one of several kinds of processing plants</attrdef>
+        <attrdomv />
+      </attr>
+      <attr>
+        <attrlabl>LATITUDE</attrlabl>
+        <attalias>LATITUDE</attalias>
+        <attrdef>Angular distance measured on a meridian north or south from the equator, measured in decimal degrees.</attrdef>
+        <attrdomv />
+      </attr>
+      <attr>
+        <attrlabl>LONGITUDE</attrlabl>
+        <attalias>LONGITUDE</attalias>
+        <attrdef>Angular distance between the plane of a meridian east or west from the plane of the meridian of Greenwich, measured in decimal degrees.</attrdef>
+        <attrdomv />
+      </attr>
+      <attr>
+        <attrlabl>COMMODITY</attrlabl>
+        <attalias>COMMODITY</attalias>
+        <attrdef>The material mined or processed at the site</attrdef>
+        <attrdomv />
+      </attr>
+      <attr>
+        <attrlabl>METHOD</attrlabl>
+        <attalias>METHOD</attalias>
+        <attrdef>The method of mining used by the operation if it is considered to be a mine</attrdef>
+        <attrdomv />
+      </attr>
+      <attr>
+        <attrlabl>COMPANY</attrlabl>
+        <attalias>COMPANY</attalias>
+        <attrdef>The principal company operating at the site</attrdef>
+        <attrdomv />
+      </attr>
+      <attr>
+        <attrlabl>STATUS</attrlabl>
+        <attalias>STATUS</attalias>
+        <attrdef>An indicator of whether an operation was producing in 2004</attrdef>
+        <attrdomv />
+      </attr>
+      <attr>
+        <attrlabl>CAPACITY</attrlabl>
+        <attalias>CAPACITY</attalias>
+        <attrdef>The amount it is possible to produce at the facility</attrdef>
+        <attrdomv />
+      </attr>
+      <attr>
+        <attrlabl>UNITS</attrlabl>
+        <attalias>UNITS</attalias>
+        <attrdef>The unit of measure for the plant capacity attribute of the site.</attrdef>
+        <attrdomv />
+      </attr>
+      <attr>
+        <attrlabl>METHOD_1</attrlabl>
+        <attalias>METHOD_1</attalias>
+        <attrdef>The method of mining used by the operation if it is considered to be a mine - LABEL</attrdef>
+        <attrdomv />
+      </attr>
+      <attr>
+        <attrlabl>STATUS_1</attrlabl>
+        <attalias>STATUS_1</attalias>
+        <attrdef>An indicator of whether an operation was producing in 2004 - LABEL</attrdef>
+        <attrdomv />
+      </attr>
+    </detailed>
+  </eainfo>
+  <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>Data Basin</cntorg>
+          <cntper>Data Basin Administrator</cntper>
+        </cntorgp>
+        <cntaddr>
+          <addrtype>physical address</addrtype>
+          <address>136 SW Washington Ave, Suite 202</address>
+          <city>Corvallis</city>
+          <state>OR</state>
+          <postal>97333</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>541-757-0687</cntvoice>
+        <cntemail>databasin_admin@consbio.org</cntemail>
+      </cntinfo>
+    </distrib>
+    <resdesc>Mineral Operations of Africa and the Middle East</resdesc>
+    <distliab>No warranty is made by Data Basin for use of this dataset.  No warranty is made by Data Basin regarding the accuracy, reliability, or completeness of this dataset. In no event shall Data Basin have any liability whatsoever for payment of any consequential, incidental, indirect, special, or tort damages of any kind, including, but not limited to, any loss of profits arising out of the use or reliance on the geographic or attribute data contained within this dataset or arising out of the delivery, installation, operation, or support by Data Basin.</distliab>
+    <stdorder>
+      <digform>
+        <digtinfo>
+          <formname>Feature Layer</formname>
+          <formvern>ArcGIS  10</formvern>
+          <formspec>Feature Layer</formspec>
+          <filedec>No compression applied</filedec>
+        </digtinfo>
+        <digtopt>
+          <onlinopt>
+            <computer>
+              <networka>
+                <networkr>http://app.databasin.org/app/pages/datasetPage.jsp?id=af28b34e1eef473f8956e4037418b6b3</networkr>
+              </networka>
+            </computer>
+            <accinstr>Download from http://databasin.org</accinstr>
+          </onlinopt>
+        </digtopt>
+      </digform>
+      <fees>None</fees>
+      <ordering>Download from http://databasin.org</ordering>
+    </stdorder>
+    <techpreq>ESRI ArcGIS Desktop and supporting operating systems.</techpreq>
+  </distinfo>
+</metadata>
+
