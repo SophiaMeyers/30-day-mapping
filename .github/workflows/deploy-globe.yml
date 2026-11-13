@@ -42,11 +42,15 @@ jobs:
           VITE_MAPBOX_TOKEN: ${{ secrets.VITE_MAPBOX_TOKEN }}
         run: npm run build
 
+      - name: Prepare website
+        run: |
+          mkdir -p _site/projection-globe
+          cp -a projection-globe/dist/. _site/projection-globe/
+
       - name: Upload website
         uses: actions/upload-pages-artifact@v3
         with:
-          path: projection-globe/dist
-
+          path: _site
   deploy:
     environment:
       name: github-pages
